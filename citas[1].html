@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Vida Saludable | Solicitar cita</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header class="encabezado">
+        <div class="contenedor">
+            <h1>Clínica Vida Saludable</h1>
+            <p class="subtitulo">Solicitud de citas médicas</p>
+        </div>
+    </header>
+
+    <nav class="navegacion" aria-label="Navegación principal">
+        <div class="contenedor enlaces-nav">
+            <a href="index.html">Inicio</a>
+            <a href="citas.html">Solicitar una cita</a>
+        </div>
+    </nav>
+
+    <main class="contenedor contenido">
+        <section class="formulario-seccion">
+            <h2>Solicita tu cita médica</h2>
+            <p>Completa los siguientes datos. Este formulario es una muestra visual para el proyecto académico y todavía no envía información.</p>
+
+            <form class="formulario">
+                <label for="nombre">Nombre completo</label>
+                <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre">
+
+                <label for="correo">Correo electrónico</label>
+                <input type="email" id="correo" name="correo" placeholder="ejemplo@correo.com">
+
+                <label for="telefono">Número de teléfono</label>
+                <input type="tel" id="telefono" name="telefono" placeholder="809-000-0000">
+
+                <label for="servicio">Servicio médico</label>
+                <select id="servicio" name="servicio">
+                    <option value="">Selecciona un servicio</option>
+                    <option>Medicina general</option>
+                    <option>Pediatría</option>
+                    <option>Evaluación preventiva</option>
+                </select>
+
+                <label for="fecha">Fecha preferida</label>
+                <input type="date" id="fecha" name="fecha">
+
+                <label for="mensaje">Comentario adicional</label>
+                <textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe aquí algún detalle (opcional)"></textarea>
+
+                <button type="button">Enviar solicitud (demostración)</button>
+            </form>
+            <p class="nota-formulario">Nota: el formulario aún no está conectado a un sistema de envío.</p>
+        </section>
+    </main>
+
+    <footer class="pie-pagina">
+        <p>&copy; 2026 Clínica Vida Saludable. Proyecto académico.</p>
+    </footer>
+</body>
+</html>

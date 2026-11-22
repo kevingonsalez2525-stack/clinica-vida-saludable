@@ -1,0 +1,15 @@
+PROYECTO: CLÍNICA VIDA SALUDABLE
+
+ARCHIVOS:
+- index.html: página principal.
+- citas.html: página con formulario visual.
+- estilos.css: hoja de estilos externa compartida.
+- clinica.svg: imagen local utilizada en la página principal.
+
+PARA VER EL SITIO:
+1. Extrae todos los archivos de la carpeta ZIP.
+2. Abre la carpeta en Visual Studio Code o en el Explorador de archivos.
+3. Haz doble clic en index.html para abrir la página principal en el navegador.
+4. Usa el enlace “Solicitar una cita” para ir a la segunda página.
+
+NOTA: El formulario es únicamente una maqueta visual y todavía no envía datos, tal como corresponde a esta primera fase.

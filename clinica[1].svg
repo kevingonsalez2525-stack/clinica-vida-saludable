@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+<title id="title">Clínica médica</title><desc id="desc">Ilustración de un edificio de clínica con una cruz médica.</desc>
+<rect width="520" height="360" rx="24" fill="#e6f3f7"/>
+<circle cx="420" cy="75" r="35" fill="#c3e5ed"/>
+<rect x="105" y="100" width="310" height="210" rx="12" fill="#ffffff" stroke="#176b87" stroke-width="7"/>
+<path d="M85 112 L260 35 L435 112" fill="#176b87"/>
+<rect x="225" y="210" width="70" height="100" rx="5" fill="#b9dce5" stroke="#176b87" stroke-width="5"/>
+<g fill="#d8edf2" stroke="#176b87" stroke-width="4"><rect x="135" y="145" width="55" height="48" rx="5"/><rect x="330" y="145" width="55" height="48" rx="5"/></g>
+<path d="M162 153 V185 M146 169 H178 M357 153 V185 M341 169 H373" stroke="#176b87" stroke-width="5" stroke-linecap="round"/>
+<rect x="238" y="65" width="44" height="60" rx="7" fill="#ffffff"/>
+<path d="M260 76 V114 M241 95 H279" stroke="#2b9a8f" stroke-width="10" stroke-linecap="round"/>
+<path d="M65 310 H455" stroke="#9bcbd6" stroke-width="8" stroke-linecap="round"/>
+</svg>
